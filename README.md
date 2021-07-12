@@ -5,4 +5,6 @@ Classement final sur le site de l'ANSSI : [https://www.ssi.gouv.fr/actualite/le-
 
 ## Qualifiés pour la finale du FCSC 2020
 
+Source : [https://www.ssi.gouv.fr/actualite/finale-du-france-cybersecurity-challenge-2020-et-annulation-de-leuropean-cybersecurity-challenge/](https://www.ssi.gouv.fr/actualite/finale-du-france-cybersecurity-challenge-2020-et-annulation-de-leuropean-cybersecurity-challenge/)
+
 ![Quals](https://raw.githubusercontent.com/0xSoEasY/FCSC2020/master/Qualifie%CC%81s%20FCSC%202020.png)
